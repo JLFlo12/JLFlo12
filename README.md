@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Flo 👋
+# Hi, I'm Florian 👋
 
 🇬🇧 English · [🇫🇷 Français](README.fr.md)
 
