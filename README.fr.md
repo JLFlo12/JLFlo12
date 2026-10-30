@@ -8,7 +8,7 @@
 
 📍 Reunion · 🎓 IUT De La Réunion
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://florian-portfolio-zeta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://florianlh.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/florian-girardot-lahogue-4aa367341)
 [![X](https://img.shields.io/badge/@florian__offi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/florian_offi)
 
@@ -46,7 +46,7 @@
 
 | Projet | Description | Stack |
 | --- | --- | --- |
-| [**Portfolio**](https://github.com/JLFlo12/florian-portfolio) | Mon portfolio : projets, CV, assistant IA (Jarvis) et mini-jeux · [en ligne](https://florian-portfolio-zeta.vercel.app/) | React · TypeScript · Supabase |
+| [**Portfolio**](https://github.com/JLFlo12/florian-portfolio) | Mon portfolio : projets, CV, assistant IA (Jarvis) et mini-jeux · [en ligne](https://florianlh.fr) | React · TypeScript · Supabase |
 | [**PARKO**](https://github.com/JLFlo12/parko) | Application mobile qui offre une remise de stationnement aux clients du centre-ville de Saint-Pierre (La Réunion) sur présentation de leur ticket de caisse | Expo · React Native · Supabase |
 | [**La Toile des Muses**](https://github.com/JLFlo12/SITE_DESSIN_EN_LIGNE) | Application web de dessin avec calques, galerie et export PNG | React · TypeScript · Vite |
 | [**Le Voyage de Torri**](https://github.com/JLFlo12/Le-Voyage-de-Torri) | Jeu 3D à la troisième personne : monde nature, forêt tropicale et parcours d'obstacles | Unreal Engine 5.7 · C++ |
